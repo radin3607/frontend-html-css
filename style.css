@@ -1,0 +1,96 @@
+
+
+       #main{
+           width: 76%;
+           margin: 5px;
+           height: 80%;
+        }
+        table{
+            float: right;
+            text-align: center;
+            
+        }
+         h1{
+            font-size: 30px;
+             color: white;
+             text-align: center; 
+             padding-top: 15px;
+
+         } 
+        aside{
+            margin: 5px;
+            color:antiquewhite ;
+            float: right;
+            background-color: rgb(54, 58, 57);
+            width: 20%;
+            height: 100%;
+            border-style: solid;
+            border-width: 1px;
+        }
+        a{
+            color: antiquewhite;
+            text-align: center;
+        }
+        nav{
+            margin-bottom: 0%;
+            background-color: cornflowerblue;
+        }
+        header{
+            background-color: #303030; 
+             height: 80px; 
+            width: 100%;
+        }
+        div{ 
+            background-color:rgb(9, 71, 206);
+            text-align: center;
+            float: right;
+            width: 80%;
+            border-style: solid;
+            border-width: 2px;
+            border: azures;
+            
+        }
+        #body{
+            height: 1300px;
+           
+            background-color:rgb(85, 85, 199);
+
+        } 
+        li{
+            margin-bottom: 5px;
+        }
+         #menu ul li a:hover {
+    font-weight: bold;
+    background-color: #CCD;
+}
+
+  #menu ul li a.active {
+    font-weight: bold;
+}
+#footer{
+    width: 100%;
+    background-color: #303030;
+    
+    top: 90%;
+    height: 20px;
+    text-align: center;
+}
+
+    #triangle-isosceles {  
+        position: relative;
+          padding: 15px;
+            margin: 1em 0 3em;
+             color: #000;
+               background: #f3961c;
+                 border-radius: 10px;
+                background: linear-gradient(top, #f9d835, #f3961c);
+                  width: 110px;
+                }
+ #product{
+        width: 100%;
+        
+        text-align: center;
+        
+}
+    
+
